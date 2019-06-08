@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Behavioral\Specification;
+namespace Behavioral\Specification;
 
 class PriceSpecification implements SpecificationInterface
 {
